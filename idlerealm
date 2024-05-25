@@ -1,6 +1,6 @@
 <html>
     <head>
-        <meta name="go-import" content="go.rgst.io/mcpd git https://github.com/rgst-io/idlerealm">
+        <meta name="go-import" content="go.rgst.io/idlerealm git https://github.com/rgst-io/idlerealm">
         <meta http-equiv="refresh" content="0;URL='https://github.com/rgst-io/idlerealm'">
     </head>
     <body>
